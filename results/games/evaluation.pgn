@@ -1,0 +1,288 @@
+[Event "Chess in the Hand of AI benchmark"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "L4+material"]
+[Black "L4+pst"]
+[Result "1/2-1/2"]
+[Opening "Italian Game"]
+[Termination "move limit"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bc4 Bc5 4. c3 Nf6 5. Bd3 d5 6. exd5 Qxd5 7. Be2 O-O 8. Rf1 Be6 9. Qa4 e4 10. Nh4 Qg5 11. g3 Ne5 12. Qb5 Bb6 13. Rh1 Nd5 14. Ng2 Rfd8 15. Kf1 a6 16. Qa4 Nd3 17. Bxd3 exd3 18. Qh4 Qxh4 19. gxh4 Re8 20. Ne3 Rad8 21. Rg1 Bc5 22. Ke1 Bd6 23. Rh1 Bf5 24. Kf1 Be4 25. Ng2 Nf4 26. Nxf4 Bxh1 27. Nxd3 Be4 28. Nb4 Bxh2 29. Na3 a5 30. Nbc2 Bd3+ 31. Kg2 Be5 32. h5 Be4+ 33. Kh3 Rd3+ 34. Ne3 Bf3 35. Nac4 Bxh5 36. Nxa5 Bf3 37. Kh4 Bf6+ 38. Kh3 Bd5 39. Nb3 Bxb3 40. axb3 Be5 41. Kh4 Red8 42. Kh5 Bf6 43. Kg4 h6 44. Kh5 Rb8 45. Kg4 Re8 46. Kh5 Re5+ 47. Kg4 Rb5 48. Ra8+ Kh7 49. Rf8 Rd7 50. b4 c5 51. bxc5 Rxc5 52. Kf4 Be7 53. Re8 Bd6+ 54. Kf3 Re5 55. Rxe5 Bxe5 56. Kg4 Rc7 57. Kh5 Rc5 58. Kg4 Kg8 59. Kh4 Bf6+ 60. Kh3 Rh5+ 61. Kg2 Rg5+ 62. Kh2 Be5+ 63. Kh1 Rh5+ 64. Kg2 Bf6 65. d3 Rg5+ 66. Kf3 Rg1 67. Bd2 Rb1 68. Ng4 Bg5 69. Bxg5 hxg5 70. b4 Rb3 71. Ke4 Rxc3 72. Ne3 Rb3 73. Nd5 g4 74. Ne7+ Kh8 75. Nd5 Rb2 76. Kf5 Rxf2+ 77. Kxg4 Rd2 78. Nf4 Kg8 79. Kf5 Rb2 80. Nd5 Rf2+ 81. Ke5 Rd2 82. d4 Rb2 83. Kd6 Rg2 84. Ne7+ Kf8 85. Nd5 Rc2 86. Ke5 Rf2 87. Ke4 Kg8 88. Ke3 Rb2 89. Kf4 Re2 90. Nc7 Re7 91. Nd5 Rd7 92. Ke5 Rd8 93. b5 Kh8 94. Ke4 Rd6 95. Ke5 Rd7 96. Ke4 f5+ 97. Ke5 Kh7 98. b6 Rd8 99. Nc7 f4 100. Ne6 Re8 1/2-1/2
+
+[Event "Chess in the Hand of AI benchmark"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "L4+pst"]
+[Black "L4+material"]
+[Result "1/2-1/2"]
+[Opening "Italian Game"]
+[Termination "move limit"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bc4 Bc5 4. c3 Nf6 5. d4 exd4 6. e5 d5 7. Bb5 Qe7 8. O-O Ng8 9. cxd4 Bb6 10. Nc3 Qd8 11. Bxc6+ bxc6 12. Bf4 Ne7 13. Na4 Ba5 14. Nc5 Kf8 15. Qd3 Bb6 16. Rfe1 Kg8 17. Rad1 Ba5 18. Re3 Qf8 19. Qc2 Bb6 20. Ree1 Qe8 21. Bg3 Kf8 22. Qd3 Qd8 23. Qc3 Nf5 24. Bf4 Nh4 25. Nxh4 Qxh4 26. Bg3 Qd8 27. Na4 Qe8 28. Nxb6 cxb6 29. Rc1 Bd7 30. Bf4 Kg8 31. Rcd1 Qf8 32. Qb3 Qe8 33. Bg3 Qf8 34. Rd3 Qe8 35. Bf4 Qf8 36. Be3 Qe8 37. Rdd1 Qf8 38. Qd3 Qe8 39. Qc2 Qf8 40. Bf4 Qe8 41. Bg3 Qf8 42. Rd2 Qe8 43. Bf4 Qf8 44. Be3 Qe8 45. Qc3 Qf8 46. h3 Qe8 47. Rdd1 Qf8 48. Bg5 Qe8 49. Bf4 Qf8 50. Bg3 Qe8 51. Qe3 Qf8 52. Qd3 Qe8 53. Qc2 Qf8 54. Bf4 Qe8 55. Be3 Qf8 56. Qd3 Qe8 57. Bf4 Qf8 58. Qb3 Qe8 59. Bg3 Qf8 60. Rc1 Qe8 61. Bf4 Qf8 62. a3 Qe8 63. Rcd1 Qf8 64. Qc3 Qe8 65. Bg3 Qf8 66. Qf3 Qe8 67. Bf4 Qf8 68. Be3 Qe8 69. Qf4 Qf8 70. Qg3 Qe8 71. Bh6 Qf8 72. Re3 Re8 73. Rc3 Rc8 74. Be3 Re8 75. Qf3 Rc8 76. Qf4 Re8 77. Rcd3 Rc8 78. Qf3 Re8 79. Bf4 Rc8 80. Re3 Re8 81. Re2 Rc8 82. Bg3 Re8 83. Ree1 Rc8 84. Bh4 Qe8 85. Bg5 Kf8 86. Be3 Kg8 87. Qf4 Kf8 88. Qg3 Kg8 89. Bh6 Qf8 90. b4 Re8 91. Bf4 Rc8 92. Qf3 Re8 93. b5 cxb5 94. Qxd5 Qe7 95. Bg3 Rc8 96. Qb7 a5 97. Qxb6 Qxa3 98. Qd6 Qxd6 99. exd6 Kf8 100. Re7 Rd8 1/2-1/2
+
+[Event "Chess in the Hand of AI benchmark"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "L4+pst"]
+[Black "L4+material"]
+[Result "1-0"]
+[Opening "Ruy Lopez"]
+[Termination "checkmate"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 Nf6 5. O-O Be7 6. Nc3 Bd6 7. d4 exd4 8. Nxd4 Nxd4 9. Qxd4 Qe7 10. Nd5 Nxd5 11. exd5 Rg8 12. Bf4 Bxf4 13. Qxf4 Qf6 14. Qxc7 Qxb2 15. Rfe1+ Qe5 16. Rxe5+ Kf8 17. Qd8# 1-0
+
+[Event "Chess in the Hand of AI benchmark"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "L4+material"]
+[Black "L4+pst"]
+[Result "0-1"]
+[Opening "Ruy Lopez"]
+[Termination "checkmate"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 Nf6 5. O-O Be7 6. Re1 b5 7. Bb3 O-O 8. Kh1 Bc5 9. Kg1 Ng4 10. Re2 Nd4 11. Nxd4 exd4 12. Bd5 c6 13. Bb3 d5 14. exd5 cxd5 15. h3 Nf6 16. Re1 Be6 17. Kf1 Qc7 18. Kg1 Ne4 19. Kf1 Qf4 20. f3 Rfe8 21. Kg1 d3+ 22. Re3 Bxe3+ 23. dxe3 Qc7 24. fxe4 dxe4 25. Bxe6 Rxe6 26. cxd3 exd3 27. Bd2 Qc2 28. Qxc2 dxc2 29. Nc3 Rd8 30. Bc1 b4 31. Na4 Rxe3 32. Kf2 Re5 33. b3 Rb8 34. Nb2 Rbe8 35. Kg3 Re2 36. Kf3 Re1 37. Kg3 Rd8 38. Kf2 Rh1 39. Ke3 Rh2 40. Nd3 Rxg2 41. Nxb4 Rh2 42. Nxa6 Rxh3+ 43. Kf4 Rd4+ 44. Ke5 Rd7 45. Nb4 Rh2 46. Ke4 Re7+ 47. Kf5 Ree2 48. Bf4 Rhg2 49. Nc6 g6+ 50. Kf6 Re6# 0-1
+
+[Event "Chess in the Hand of AI benchmark"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "L4+material"]
+[Black "L4+pst"]
+[Result "0-1"]
+[Opening "Scotch Game"]
+[Termination "checkmate"]
+
+1. e4 e5 2. Nf3 Nc6 3. d4 exd4 4. Nxd4 Nf6 5. Nxc6 dxc6 6. Qxd8+ Kxd8 7. Bc4 Nxe4 8. Bxf7 Bc5 9. Be3 Bxe3 10. fxe3 Nd6 11. Bb3 Re8 12. Ke2 Bg4+ 13. Kd3 Ne4 14. Kd4 c5+ 15. Kd3 Nf2+ 16. Kd2 Nxh1 17. Ba4 Rf8 18. Kc3 Nf2 19. Kc4 Nd1 20. Kxc5 Nxe3 21. h3 Bf5 22. Nc3 Nxc2 23. Rh1 Ne3 24. Rg1 Rf6 25. Kd4 Re6 26. Bb3 Re8 27. Kc5 Kc8 28. Kd4 Bg6 29. Kc5 Kb8 30. Nd5 Nxd5 31. Bxd5 Re2 32. b4 Rc2+ 33. Kd4 Rd2+ 34. Ke5 Rb2 35. a3 Rd2 36. g3 Rd3 37. a4 Rd2 38. Bc4 Rh2 39. Be6 Re2+ 40. Kd5 Re4 41. Rf1 a6 42. Rf8+ Ka7 43. Rxa8+ Kxa8 44. b5 Rxa4 45. bxa6 Rxa6 46. Ke5 Kb8 47. Bg8 Rf6 48. Bd5 Rf2 49. Kd4 Rd2+ 50. Ke5 Rd3 51. Bg8 Rxg3 52. Be6 Re3+ 53. Kd5 h5 54. h4 Re4 55. Bg8 Rxh4 56. Be6 Re4 57. Bg8 Re8 58. Be6 h4 59. Bd7 Rd8 60. Ke6 h3 61. Bb5 h2 62. Ke7 Rh8 63. Bd7 h1=Q 64. Be6 Qc6 65. Bd7 Qf6# 0-1
+
+[Event "Chess in the Hand of AI benchmark"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "L4+pst"]
+[Black "L4+material"]
+[Result "1-0"]
+[Opening "Scotch Game"]
+[Termination "adjudicated (material)"]
+
+1. e4 e5 2. Nf3 Nc6 3. d4 exd4 4. Nxd4 Nf6 5. Nxc6 dxc6 6. Qxd8+ Kxd8 7. Bd3 Bb4+ 8. Bd2 Bxd2+ 9. Nxd2 Rg8 10. O-O Rf8 11. e5 Nd7 12. Rfe1 Rh8 13. Bc4 Ke8 14. Nf3 Nf8 15. Ng5 Ne6 16. Ne4 Kf8 17. Rad1 Rg8 18. Bb3 Rh8 19. h3 Rg8 20. Bc4 Rh8 21. Bd3 Rg8 22. Ng3 Rh8 23. Bc4 Kg8 24. Nf5 Kf8 25. Bb3 Rb8 26. a3 Rg8 27. Ne3 Rh8 28. f4 Kg8 29. f5 Nf8 30. Rd8 Ra8 31. e6 fxe6 32. fxe6 h6 33. e7+ Kh7 34. e8=Q Rb8 35. Rxc8 Rxc8 36. Qxc8 Ng6 37. Qxc7 Rf8 38. Qxb7 Re8 1-0
+
+[Event "Chess in the Hand of AI benchmark"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "L4+pst"]
+[Black "L4+material"]
+[Result "1-0"]
+[Opening "Petrov Defence"]
+[Termination "adjudicated (material)"]
+
+1. e4 e5 2. Nf3 Nf6 3. Nxe5 d6 4. Nf3 Nxe4 5. d3 Nf6 6. Qe2+ Kd7 7. Ng5 Qe8 8. Qxe8+ Kxe8 9. Nc3 Rg8 10. Nb5 Na6 11. Be3 h6 12. Nf3 b6 13. Be2 Rh8 14. O-O Rg8 15. d4 Rh8 16. Rfe1 Rg8 17. Bc4 Be7 18. Rad1 Kf8 19. d5 Rh8 20. Nfd4 Rg8 21. Nc6 Ne4 22. Nxe7 Kxe7 23. f3 c6 24. dxc6 d5 25. Bxd5 Nb4 26. Bxe4 Nxa2 27. c7 Be6 28. Bxa8 Rxa8 29. Nd6 Kf8 30. Bf4 g5 31. Bg3 Bd7 32. Nxf7 Kxf7 33. Rxd7+ Kg8 34. Rd8+ Rxd8 35. cxd8=Q+ Kh7 36. Qd7+ Kg6 37. Re6+ Kh5 1-0
+
+[Event "Chess in the Hand of AI benchmark"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "L4+material"]
+[Black "L4+full"]
+[Result "0-1"]
+[Opening "Italian Game"]
+[Termination "adjudicated (material)"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bc4 Bc5 4. c3 Nf6 5. Bd3 d5 6. exd5 Qxd5 7. Be2 e4 8. Nh4 g5 9. b4 Bd6 10. b5 Ne5 11. f4 gxf4 12. O-O Bc5+ 13. Kh1 f3 14. gxf3 Bh3 15. Ng2 O-O 16. Nf4 Qd7 17. Nxh3 Qxh3 18. fxe4 Nxe4 19. Qe1 Ng4 20. Qh4 Qxh4 21. Kg2 Qxh2+ 22. Kf3 Ne5+ 23. Kxe4 Qxe2+ 24. Kf5 Qxf1+ 25. Kxe5 Bd6+ 26. Ke4 0-1
+
+[Event "Chess in the Hand of AI benchmark"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "L4+material"]
+[Black "L4+pst"]
+[Result "0-1"]
+[Opening "Petrov Defence"]
+[Termination "adjudicated (material)"]
+
+1. e4 e5 2. Nf3 Nf6 3. Nxe5 d6 4. Nf3 Nxe4 5. Nd4 Qf6 6. Nf3 Qe7 7. Bb5+ Bd7 8. Bxd7+ Nxd7 9. Kf1 O-O-O 10. Rg1 d5 11. Rh1 Kb8 12. d4 Qe6 13. Rg1 Qa6+ 14. Ke1 Re8 15. Qe2 Bb4+ 16. Kd1 Qxe2+ 17. Kxe2 Nd2+ 18. Kd3 Nxf3 19. gxf3 Re1 20. Rxe1 Bxe1 21. Ke2 Re8+ 22. Be3 c5 23. dxc5 Bb4 24. Nc3 Bxc3 25. bxc3 Nxc5 26. Rg1 Ne6 27. Kd3 Rd8 28. Bd2 h6 29. Ke2 Re8 30. Kf1 a6 31. Be1 Rh8 32. Rg4 h5 33. Rh4 g5 34. Rb4 h4 35. Rb6 Rd8 36. Rb3 Nc5 37. Rb4 Re8 38. Rg4 Ne6 39. Ra4 Nf4 40. Rd4 Rd8 41. Rb4 h3 42. Rb6 Re8 43. Bd2 Re6 44. Rxe6 fxe6 45. Bc1 e5 46. Ke1 a5 47. Kd2 Ne6 48. Ke3 a4 49. Kd2 Ng7 50. Ba3 Nf5 51. Bf8 Ka8 52. Kd3 Ka7 53. Bb4 Kb8 54. Ke2 Ka8 55. Bf8 b5 56. Kd3 Kb7 57. Bb4 Kc8 58. Ke2 Kc7 59. Bf8 d4 60. Kd3 dxc3 61. Ke4 Nd4 62. Bg7 Nc6 63. Bh6 Kb8 64. Bxg5 Ka8 65. Bh6 Nb4 66. Kxe5 Nxc2 67. Bf8 Ne1 68. Ke4 c2 69. Bh6 b4 70. Bg5 b3 71. axb3 a3 72. Bd2 a2 73. Bxe1 c1=Q 74. Bb4 a1=Q 75. Kf5 Qc6 76. Be7 Qd7+ 77. Kf4 0-1
+
+[Event "Chess in the Hand of AI benchmark"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "L4+full"]
+[Black "L4+material"]
+[Result "1-0"]
+[Opening "Italian Game"]
+[Termination "checkmate"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bc4 Bc5 4. c3 Nf6 5. d4 exd4 6. e5 d5 7. exf6 dxc4 8. fxg7 Rg8 9. Bg5 Qd7 10. Qe2+ Qe6 11. cxd4 Qxe2+ 12. Kxe2 Nxd4+ 13. Nxd4 Bxd4 14. Nc3 Bxg7 15. h4 Rh8 16. Bf4 Kd7 17. Kd2 Rg8 18. Bg3 Kc6 19. Rae1 Rh8 20. Be5 Bxe5 21. Rxe5 Rd8+ 22. Ke3 Rg8 23. Ne4 Rxg2 24. Rc5+ Kd7 25. Kf3 Rg8 26. Rd1+ Ke6 27. Rxc7 f5 28. Rd6+ Ke5 29. Rc5# 1-0
+
+[Event "Chess in the Hand of AI benchmark"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "L4+material"]
+[Black "L4+full"]
+[Result "0-1"]
+[Opening "Ruy Lopez"]
+[Termination "adjudicated (material)"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 Nf6 5. O-O Be7 6. Re1 b5 7. Bb3 Bc5 8. Ng5 d5 9. exd5 Nxd5 10. Ne4 Bd4 11. Ng5 Qxg5 12. Bxd5 Qf6 13. Bf3 Bf5 14. c3 Bc5 15. Bxc6+ Qxc6 16. Rxe5+ Be6 17. Rh5 g6 18. Rg5 h6 19. Re5 Bd6 20. Re2 O-O-O 21. Re1 Bd5 22. Qg4+ f5 23. Qh3 Rde8 24. Rxe8+ Rxe8 25. Kf1 Bxg2+ 26. Qxg2 Re1+ 27. Kxe1 Qxg2 28. Na3 Qe4+ 29. Kf1 Qh1+ 30. Ke2 Bxa3 31. bxa3 Kd7 32. f3 Qxh2+ 33. Ke3 Qe5+ 34. Kd3 Qf4 35. Ke2 Qc4+ 36. Ke3 f4+ 37. Kf2 Qd3 38. Kg2 Qe2+ 39. Kh1 Qf1+ 40. Kh2 Qf2+ 41. Kh1 Qh4+ 42. Kg1 Qg3+ 43. Kh1 Qxf3+ 44. Kg1 Qd3 45. Kh2 Ke6 46. Kh1 f3 47. Bb2 Qxd2 48. Rg1 f2 49. Rf1 Qxb2 50. Kg2 Qxa2 51. Rxf2 Qxa3 52. Rf3 Qb2+ 53. Kh3 Qd2 54. Kg3 a5 55. Kg4 a4 56. Rg3 a3 57. Kh3 a2 58. Rxg6+ Kf5 59. Ra6 Qxc3+ 60. Kh2 Qe5+ 61. Kh1 a1=Q+ 62. Rxa1 Qxa1+ 63. Kh2 Qg7 64. Kh1 b4 65. Kh2 0-1
+
+[Event "Chess in the Hand of AI benchmark"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "L4+full"]
+[Black "L4+material"]
+[Result "1-0"]
+[Opening "Ruy Lopez"]
+[Termination "checkmate"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 Nf6 5. O-O Be7 6. Nc3 Bd6 7. d4 exd4 8. Nxd4 Nxd4 9. Qxd4 Qe7 10. Bg5 Rg8 11. Bb3 Rh8 12. a3 Bxh2+ 13. Kxh2 Ng4+ 14. Kg1 Qxg5 15. Nd5 Kd8 16. Qc5 Qe5 17. Rfe1 Qh2+ 18. Kf1 Re8 19. f4 Qh1+ 20. Qg1 Qxg1+ 21. Kxg1 Rh8 22. Nc3 Rf8 23. Bc4 Nh6 24. f5 Rg8 25. Rad1 Rh8 26. Ne2 Rf8 27. Nf4 Ke8 28. Nh5 Rg8 29. f6 g6 30. Ng7+ Kf8 31. e5 Rh8 32. Rd4 Kg8 33. Rh4 Nf5 34. Nxf5 gxf5 35. Rd4 Kf8 36. Rf1 c5 37. Rh4 b5 38. Bd5 Rb8 39. Rxf5 d6 40. Rfh5 dxe5 41. Rxe5 Rb6 42. Rf4 c4 43. Kf2 Be6 44. Bxe6 fxe6 45. Rc5 Kf7 46. Rc7+ Kg6 47. f7 Rf8 48. Ke3 Kh6 49. Rf6+ Kg7 50. Rf1 Kh8 51. Ke4 Kg7 52. Rd7 Kh8 53. Kf4 Kg7 54. Ke5 Rc6 55. Kd4 Kh8 56. Rf3 Kg7 57. Ke5 Kh8 58. Re7 Kg7 59. Rg3+ Kh8 60. Re8 Rc5+ 61. Kxe6 Rc6+ 62. Kd5 Rg6 63. Rxg6 hxg6 64. Rxf8+ Kg7 65. Ra8 Kxf7 66. Rxa6 g5 67. Rb6 Kg7 68. Kd4 Kh8 69. Rxb5 Kh7 70. Rxg5 Kh6 71. Rg3 Kh7 72. a4 Kh6 73. Kxc4 Kh7 74. a5 Kh6 75. a6 Kh7 76. a7 Kh6 77. a8=Q Kh7 78. Qc6 Kh8 79. Qh6# 1-0
+
+[Event "Chess in the Hand of AI benchmark"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "L4+material"]
+[Black "L4+full"]
+[Result "0-1"]
+[Opening "Scotch Game"]
+[Termination "adjudicated (material)"]
+
+1. e4 e5 2. Nf3 Nc6 3. d4 exd4 4. Nxd4 Nf6 5. Nxc6 dxc6 6. Qxd8+ Kxd8 7. Bc4 Nxe4 8. Bxf7 Bc5 9. Be3 Bxe3 10. fxe3 Ke7 11. Rf1 Be6 12. Bxe6 Kxe6 13. Ke2 Rad8 14. Ke1 Rhf8 15. Rxf8 Rxf8 16. b3 Rd8 17. Ke2 c5 18. Ke1 Ke5 19. Ke2 Rf8 20. Ke1 Rf2 21. h3 Rxg2 22. Kf1 Rxc2 23. Na3 Rh2 24. Nc4+ Ke6 25. Kg1 Rxh3 26. Na5 b5 27. Nc6 Rxe3 28. Nxa7 Rg3+ 29. Kh2 b4 30. Rd1 Rf3 31. Nb5 Rf2+ 32. Kh3 Rxa2 33. Nxc7+ Ke5 34. Re1 Ra3 35. Rb1 Ra7 36. Ne8 Re7 37. Nxg7 Rxg7 38. Kh4 Rg3 39. Kh5 Rg2 40. Re1 Rb2 41. Kh6 Rxb3 42. Kxh7 c4 43. Kh8 c3 44. Kg8 c2 45. Rh1 Rb1 46. Rh5+ Kd4 47. Kh8 c1=Q 48. Rh4 b3 49. Kh7 b2 50. Kh8 0-1
+
+[Event "Chess in the Hand of AI benchmark"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "L4+full"]
+[Black "L4+material"]
+[Result "1-0"]
+[Opening "Scotch Game"]
+[Termination "adjudicated (material)"]
+
+1. e4 e5 2. Nf3 Nc6 3. d4 exd4 4. Nxd4 Nf6 5. Nc3 Nxd4 6. Qxd4 Rg8 7. e5 Qe7 8. Be3 Nh5 9. Be2 g6 10. Nd5 Qd8 11. Qc3 c6 12. Bxh5 cxd5 13. Bf3 Rh8 14. O-O Rg8 15. Rfd1 Rh8 16. e6 f6 17. Rxd5 Rg8 18. Be2 Rg7 19. Bf4 Be7 20. Rad1 Bf8 21. h3 Qe7 22. Rxd7 Bxd7 23. exd7+ Qxd7 24. Rxd7 Kxd7 25. Qxf6 a6 26. Bf3 Rg8 27. Bxb7 Re8 28. Bc6+ Kc8 29. Bxe8 Kb7 30. Bc6+ Kb6 31. Bd5+ Kb5 1-0
+
+[Event "Chess in the Hand of AI benchmark"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "L4+material"]
+[Black "L4+full"]
+[Result "0-1"]
+[Opening "Petrov Defence"]
+[Termination "checkmate"]
+
+1. e4 e5 2. Nf3 Nf6 3. Nxe5 d6 4. Nf3 Nxe4 5. Nd4 Qf6 6. Nf3 Nc6 7. Rg1 d5 8. Bb5 a6 9. Ba4 b5 10. Bb3 Bc5 11. Rf1 Be6 12. Qe2 O-O 13. Qd3 Ne5 14. Nxe5 Qxe5 15. f4 Qd4 16. Qxd4 Bxd4 17. f5 Bd7 18. Bxd5 Rae8 19. Bxe4 Rxe4+ 20. Kd1 Rg4 21. g3 b4 22. Rf3 Bc6 23. Rf4 Rxf4 24. gxf4 Bf3+ 25. Ke1 Re8+ 26. Kf1 Bg4 27. Kg2 Bxf5 28. c3 Re2+ 29. Kg3 Bg1 30. cxb4 Bxh2+ 31. Kf3 Re4 32. a3 Rxf4+ 33. Kg2 Rc4 34. Nc3 Bd6 35. Kf3 h5 36. Kg2 h4 37. Kf3 h3 38. Na4 h2 39. Kg2 Rg4+ 40. Kf2 h1=Q 41. Nc3 Qc6 42. Ke3 Be5 43. Ne2 Qe4+ 44. Kf2 Rg2+ 45. Ke1 Qxe2# 0-1
+
+[Event "Chess in the Hand of AI benchmark"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "L4+full"]
+[Black "L4+material"]
+[Result "1-0"]
+[Opening "Petrov Defence"]
+[Termination "adjudicated (material)"]
+
+1. e4 e5 2. Nf3 Nf6 3. Nxe5 d6 4. Nf3 Nxe4 5. d3 Nf6 6. Nc3 Kd7 7. Ng5 Qe8+ 8. Be3 Rg8 9. Nce4 Nxe4 10. dxe4 Rh8 11. Bc4 f6 12. Qg4+ Kd8 13. Ne6+ Ke7 14. O-O Nc6 15. Rfd1 Ne5 16. Qf5 Nxc4 17. Nxc7 Bxf5 18. Nxe8 Nxe3 19. Nxd6 Bxe4 20. fxe3 Bxc2 21. Rd4 b6 22. Rf1 Rg8 23. e4 Rd8 24. Nf5+ Ke8 25. Rxd8+ Kxd8 26. Re1 Ke8 27. Kf2 Bc5+ 28. Kf3 Bd3 29. Rd1 Ba6 30. a3 Bf8 31. Nd6+ Ke7 32. Nf5+ Ke6 33. Nd4+ Kf7 34. Nc6 Rh8 35. Rd7+ Kg8 36. Rxa7 Bb5 37. Ne7+ Bxe7 38. Rxe7 Ba4 39. Rb7 h6 40. Rxb6 Kh7 41. Rb7 Rg8 42. Rc7 Bd1+ 43. Kf4 Rf8 44. b4 Bh5 45. b5 Rh8 46. b6 Bg6 47. b7 Re8 48. Rc8 Rxe4+ 49. Kf3 Bh5+ 50. Kxe4 Bg6+ 51. Kd4 Bf5 52. Re8 Bd7 53. Re2 Bb5 54. Rc2 Ba4 55. Rc7 f5 56. b8=Q Kg6 57. Qf8 Kh5 58. Qb4 Bd1 1-0
+
+[Event "Chess in the Hand of AI benchmark"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "L4+pst"]
+[Black "L4+full"]
+[Result "0-1"]
+[Opening "Italian Game"]
+[Termination "checkmate"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bc4 Bc5 4. c3 Nf6 5. d4 exd4 6. e5 d5 7. Bb5 Ne4 8. cxd4 Bb4+ 9. Nbd2 Bf5 10. O-O O-O 11. Nxe4 Bxe4 12. Bxc6 bxc6 13. Be3 Qd7 14. Qb3 Rab8 15. Ng5 Bc5 16. Qd1 Be7 17. Nxe4 dxe4 18. Qc2 Qe6 19. f3 f6 20. fxe4 fxe5 21. Rxf8+ Kxf8 22. dxe5 Qxe5 23. Rb1 c5 24. Rf1+ Kg8 25. Qc4+ Kh8 26. Rf5 Qxb2 27. Bxc5 Qb1+ 28. Rf1 Bxc5+ 29. Qxc5 Qb6 30. Qxb6 axb6 31. Rf7 c5 32. e5 Kg8 33. Rf1 Ra8 34. Ra1 Kf7 35. Rb1 Ke6 36. Rxb6+ Kxe5 37. Rb7 Kf6 38. Rc7 Rxa2 39. Rxc5 Re2 40. Kf1 Rd2 41. Rc7 h6 42. Kg1 Re2 43. h3 h5 44. Rd7 Rc2 45. Rb7 Rd2 46. g4 hxg4 47. hxg4 Rc2 48. Rb6+ Ke5 49. Kh1 Rc4 50. Rg6 Kf4 51. Kg2 Rc7 52. Kh2 Rc2+ 53. Kg1 Kg3 54. Kf1 Kf3 55. Ke1 Ke3 56. Kd1 Rc7 57. Rb6 g5 58. Rb5 Kf4 59. Rb4+ Ke5 60. Ke2 Rc8 61. Kf1 Rc2 62. Kg1 Rd2 63. Kh1 Rd4 64. Rxd4 Kxd4 65. Kh2 Ke4 66. Kg3 Ke3 67. Kg2 Kf4 68. Kh3 Kf3 69. Kh2 Kxg4 70. Kg1 Kg3 71. Kh1 g4 72. Kg1 Kh3 73. Kf2 g3+ 74. Kg1 g2 75. Kf2 Kh2 76. Ke3 Kg3 77. Kd2 g1=Q 78. Kc2 Qd4 79. Kb1 Qd3+ 80. Ka2 Kf4 81. Ka1 Qd2 82. Kb1 Ke5 83. Ka1 Qb4 84. Ka2 Qb5 85. Ka1 Qb8 86. Ka2 Qb4 87. Ka1 Qd2 88. Kb1 Kd4 89. Ka1 Qb4 90. Ka2 Kc3 91. Ka1 Qb2# 0-1
+
+[Event "Chess in the Hand of AI benchmark"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "L4+full"]
+[Black "L4+pst"]
+[Result "1/2-1/2"]
+[Opening "Italian Game"]
+[Termination "move limit"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bc4 Bc5 4. c3 Nf6 5. d4 Bb6 6. Bg5 h6 7. Bh4 Qe7 8. Bxf6 Qxf6 9. d5 Ne7 10. Nbd2 O-O 11. O-O d6 12. Qa4 Rd8 13. Rfe1 Bg4 14. Bd3 Re8 15. h3 Bxf3 16. Nxf3 Ng6 17. Bb5 Red8 18. Qc2 Nf4 19. Kh2 Qg6 20. Nh4 Qg5 21. g3 Qf6 22. Nf5 Ng6 23. Kg1 Ne7 24. Nxe7+ Qxe7 25. Bc4 Qf6 26. Bb5 Qf3 27. Kf1 Qh1+ 28. Ke2 Qxh3 29. Kf3 a6 30. Rh1 Qc8 31. Be2 Qd7 32. Kg2 Re8 33. Qb3 f5 34. Bd3 fxe4 35. Bxe4 Qf7 36. Qc2 Rad8 37. c4 Rf8 38. Raf1 Qf6 39. Qd2 Rfe8 40. Re1 Bc5 41. Bd3 Rf8 42. f4 exf4 43. gxf4 Qxf4 44. Qxf4 Rxf4 45. Rhf1 Rxf1 46. Rxf1 Bd4 47. b4 Re8 48. Rf4 Bb6 49. Rf1 Re3 50. Rd1 Re5 51. Kf3 Rg5 52. Be4 Rg1 53. Rxg1 Bxg1 54. Bf5 b6 55. Bc8 a5 56. Be6+ Kh8 57. b5 a4 58. Bf5 Bd4 59. Bc2 a3 60. Bf5 Bf6 61. Bg6 Kg8 62. Ke3 Be5 63. Ke4 Bh2 64. Ke3 Bg1+ 65. Ke4 Bc5 66. Kf5 Bd4 67. Ke6 h5 68. Bxh5 Kh7 69. Kd7 Bc5 70. Kxc7 Kh8 71. Bg6 Kg8 72. Kd7 Kf8 73. Ke6 Kg8 74. Be4 Bb4 75. Bd3 g5 76. Bf5 Kg7 77. Bg4 Kh8 78. Kf5 Bd2 79. Ke4 Bf4 80. Be6 Be5 81. Kf5 Bf4 82. Kg6 Be3 83. Kf7 Bd2 84. Bf5 Bc1 85. Ke6 Bf4 86. Kf6 Be3 87. Bc2 g4 88. Ke6 Bc5 89. Be4 Kg8 90. Kf5 g3 91. Kg4 Bf2 92. Kg5 Be3+ 93. Kf6 Bf4 94. Ke6 Kg7 95. Bg2 Be5 96. Kd7 Kg8 97. Be4 Bf4 98. Kc6 Be3 99. Kxd6 Bd4 100. Ke6 Bc5 1/2-1/2
+
+[Event "Chess in the Hand of AI benchmark"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "L4+pst"]
+[Black "L4+full"]
+[Result "0-1"]
+[Opening "Ruy Lopez"]
+[Termination "adjudicated (material)"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 Nf6 5. O-O Be7 6. Nc3 Bb4 7. Bxc6 dxc6 8. Nxe5 Qe7 9. d4 Bxc3 10. bxc3 Nxe4 11. Qf3 f5 12. Qh5+ g6 13. Qf3 Be6 14. Bf4 O-O 15. c4 Rfd8 16. Rfd1 g5 17. Be3 c5 18. dxc5 Nxc5 19. Rxd8+ Rxd8 20. Re1 Ne4 21. h3 Qf6 22. Ng4 Qc3 23. Nh6+ Kg7 24. Bd4+ Qxd4 25. Nxf5+ Bxf5 26. Qxf5 Re8 27. Rxe4 Qxe4 28. Qxg5+ Kf7 29. Qd5+ Qxd5 30. cxd5 Re2 31. c4 Rxa2 32. c5 Rd2 33. c6 b5 34. h4 Rxd5 35. Kh2 Rd6 36. h5 b4 37. g4 b3 38. g5 b2 39. g6+ hxg6 40. h6 b1=Q 41. h7 Kg7 42. h8=Q+ Kxh8 43. Kg2 Qf5 44. f3 Kg8 45. Kf2 0-1
+
+[Event "Chess in the Hand of AI benchmark"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "L4+full"]
+[Black "L4+pst"]
+[Result "0-1"]
+[Opening "Ruy Lopez"]
+[Termination "checkmate"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 Nf6 5. O-O Be7 6. Nc3 b5 7. Bb3 b4 8. Nd5 Nxe4 9. d3 Nc5 10. Nxe7 Qxe7 11. Bg5 Qd6 12. Bc4 O-O 13. a3 bxa3 14. Rxa3 Bb7 15. Qe2 Nd4 16. Nxd4 exd4 17. Qe7 Qc6 18. g4 Qg2# 0-1
+
+[Event "Chess in the Hand of AI benchmark"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "L4+full"]
+[Black "L4+pst"]
+[Result "0-1"]
+[Opening "Scotch Game"]
+[Termination "adjudicated (material)"]
+
+1. e4 e5 2. Nf3 Nc6 3. d4 exd4 4. Nxd4 Nf6 5. Nc3 Bb4 6. Qd3 Qe7 7. f3 Nxd4 8. Qxd4 d5 9. Bb5+ Kf8 10. Bg5 Bxc3+ 11. Qxc3 dxe4 12. Bxf6 gxf6 13. fxe4 Qxe4+ 14. Kd2 Qxg2+ 15. Be2 Qg5+ 16. Ke1 Qe5 17. Qb4+ c5 18. Qb5 Bg4 19. Rb1 Re8 20. Kf2 Qe3+ 21. Ke1 Qxe2+ 22. Qxe2 Rxe2+ 23. Kf1 Rxc2 24. h3 Be6 25. a3 Ba2 26. Rd1 Bc4+ 27. Ke1 Re2+ 28. Kf1 Rg8 29. b3 Ba6 30. Rd8+ Re8+ 31. Kf2 Rxd8 32. Re1 Rd2+ 33. Kf3 Rh2 34. b4 0-1
+
+[Event "Chess in the Hand of AI benchmark"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "L4+pst"]
+[Black "L4+full"]
+[Result "1/2-1/2"]
+[Opening "Scotch Game"]
+[Termination "threefold repetition"]
+
+1. e4 e5 2. Nf3 Nc6 3. d4 exd4 4. Nxd4 Nf6 5. Nxc6 dxc6 6. Qxd8+ Kxd8 7. Bd3 Bd6 8. Nc3 Be6 9. O-O Be5 10. Be3 Bxc3 11. bxc3 Ke7 12. c4 Kd6 13. Rfb1 Rhb8 14. Re1 c5 15. Rad1 Rd8 16. h3 a6 17. a3 a5 18. Rb1 Rab8 19. Bd2 Kc6 20. e5 Bxc4 21. Bxc4 Rxd2 22. Bb5+ Kd5 23. exf6 gxf6 24. Re7 Kd4 25. Rxc7 Rxc2 26. Rxf7 Ra2 27. a4 c4 28. Rc1 Rc8 29. Rxh7 c3 30. Rd7+ Ke5 31. Re1+ Kf4 32. g3+ Kg5 33. Rg7+ Kh6 34. Rxb7 c2 35. Rc1 Rd8 36. Bd7 Kg6 37. g4 Kg5 38. Be6 Rd1+ 39. Kh2 Rxc1 40. Bxa2 Rh1+ 41. Kxh1 c1=Q+ 42. Kh2 Qf4+ 43. Kg1 Qc1+ 44. Kh2 Qf4+ 45. Kg1 Qc1+ 1/2-1/2
+
+[Event "Chess in the Hand of AI benchmark"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "L4+pst"]
+[Black "L4+full"]
+[Result "1-0"]
+[Opening "Petrov Defence"]
+[Termination "checkmate"]
+
+1. e4 e5 2. Nf3 Nf6 3. Nxe5 d6 4. Nf3 Nxe4 5. d3 Nf6 6. Qe2+ Be7 7. Nc3 Nc6 8. Bf4 Be6 9. Ng5 Bf5 10. Qf3 Nd4 11. Qd1 d5 12. Nf3 Bc5 13. Nxd4 Bxd4 14. Nb5 Qe7+ 15. Qe2 Bxb2 16. Rb1 Qxe2+ 17. Bxe2 Ke7 18. Rxb2 c6 19. Nd6 Bd7 20. Rxb7 c5 21. O-O Ke6 22. Re1 Ke7 23. Bg4+ Kf8 24. Bxd7 Nxd7 25. Rxd7 f6 26. Nf7 g5 27. Nh6 gxf4 28. Rf7# 1-0
+
+[Event "Chess in the Hand of AI benchmark"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "L4+full"]
+[Black "L4+pst"]
+[Result "1-0"]
+[Opening "Petrov Defence"]
+[Termination "adjudicated (material)"]
+
+1. e4 e5 2. Nf3 Nf6 3. Nxe5 d6 4. Nf3 Nxe4 5. d3 Nf6 6. Nc3 Nc6 7. d4 d5 8. Bf4 Bd6 9. Ne5 O-O 10. Nxc6 bxc6 11. Bxd6 Qxd6 12. Bd3 Bg4 13. Be2 Bxe2 14. Kxe2 c5 15. Kf1 Qb6 16. dxc5 Qxb2 17. Ne2 Ne4 18. Nf4 Qb5+ 19. Kg1 Qxc5 20. Qf3 g5 21. Nd3 Qxc2 22. Rc1 Qxa2 23. Rxc7 Qa5 24. Rc1 Rfe8 25. h4 gxh4 26. Qg4+ Kf8 27. Rxh4 Qb5 28. Rd1 Nc3 29. Rd2 Qb1+ 30. Kh2 Ne4 31. Rd1 Qc2 32. Rxh7 Qc7+ 33. Nf4 Red8 34. Qg7+ Ke8 35. Qg8+ Kd7 36. Qxf7+ Kc6 37. Qxc7+ Kb5 38. Qb7+ Kc4 39. Rc7+ Nc5 40. Rc1+ Kd4 41. Qb4+ Ke5 42. Re7+ Kf6 43. Qxc5 Rac8 44. Qxc8 Rxc8 45. Nxd5+ Kg6 46. Rxc8 a5 47. Rg8+ Kh6 48. Nf6 a4 1-0
+

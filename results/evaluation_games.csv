@@ -1,0 +1,25 @@
+white,black,opening,result,reason,plies,white_avg_depth,black_avg_depth,white_avg_nodes,black_avg_nodes
+L4+material,L4+pst,Italian Game,1/2-1/2,move limit,200,4.3,3.71,6596.94,6083.68
+L4+pst,L4+material,Italian Game,1/2-1/2,move limit,200,2.97,3.43,5471.67,5840.52
+L4+pst,L4+material,Ruy Lopez,1-0,checkmate,33,2.92,3.09,3764.0,4920.18
+L4+material,L4+pst,Ruy Lopez,0-1,checkmate,100,3.76,3.09,5683.96,5193.93
+L4+material,L4+pst,Scotch Game,0-1,checkmate,130,4.3,3.69,6818.9,6075.34
+L4+pst,L4+material,Scotch Game,1-0,adjudicated (material),76,3.32,4.03,5964.62,5847.32
+L4+pst,L4+material,Petrov Defence,1-0,adjudicated (material),74,2.73,3.21,5318.09,5363.79
+L4+material,L4+full,Italian Game,0-1,adjudicated (material),51,3.32,2.43,6440.14,3217.43
+L4+material,L4+pst,Petrov Defence,0-1,adjudicated (material),153,4.58,4.01,6607.38,5828.67
+L4+full,L4+material,Italian Game,1-0,checkmate,57,2.96,3.58,3099.24,6088.5
+L4+material,L4+full,Ruy Lopez,0-1,adjudicated (material),129,4.32,3.47,6897.4,4217.68
+L4+full,L4+material,Ruy Lopez,1-0,checkmate,157,3.2,4.22,4502.19,6699.01
+L4+material,L4+full,Scotch Game,0-1,adjudicated (material),99,4.57,3.78,7858.61,4916.6
+L4+full,L4+material,Scotch Game,1-0,adjudicated (material),62,2.41,3.33,4136.37,6802.11
+L4+material,L4+full,Petrov Defence,0-1,checkmate,90,3.59,2.68,6808.83,3867.83
+L4+full,L4+material,Petrov Defence,1-0,adjudicated (material),116,3.5,4.22,4360.52,6949.87
+L4+pst,L4+full,Italian Game,0-1,checkmate,182,5.24,4.78,6159.56,4914.31
+L4+full,L4+pst,Italian Game,1/2-1/2,move limit,200,3.9,4.43,4207.82,5683.49
+L4+pst,L4+full,Ruy Lopez,0-1,adjudicated (material),89,3.6,3.23,5245.25,3825.74
+L4+full,L4+pst,Ruy Lopez,0-1,checkmate,36,2.38,2.54,2899.77,4202.46
+L4+full,L4+pst,Scotch Game,0-1,adjudicated (material),67,3.7,3.66,3473.03,5358.1
+L4+pst,L4+full,Scotch Game,1/2-1/2,threefold repetition,90,3.56,3.37,5386.22,3773.49
+L4+pst,L4+full,Petrov Defence,1-0,checkmate,55,2.92,2.7,4631.12,3523.39
+L4+full,L4+pst,Petrov Defence,1-0,adjudicated (material),96,2.98,3.45,3891.25,5942.36

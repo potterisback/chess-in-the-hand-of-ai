@@ -1,0 +1,76 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Chess in the Hand of AI</title>
+  <link rel="stylesheet" href="/static/style.css">
+</head>
+<body>
+  <header>
+    <h1>Chess in the Hand of AI</h1>
+    <p class="sub">Play against four AI levels built with classical search</p>
+  </header>
+
+  <main>
+    <section class="board-area">
+      <div class="eval-bar" title="Evaluation from White's side">
+        <div class="eval-fill" id="evalFill"></div>
+        <span class="eval-text" id="evalText">0.00</span>
+      </div>
+      <div class="board-wrap">
+        <div id="board" class="board" aria-label="Chess board"></div>
+        <div id="promo" class="promo hidden"></div>
+      </div>
+    </section>
+
+    <aside class="panel">
+      <div class="card">
+        <h2>AI level</h2>
+        <div class="levels" id="levels"></div>
+        <p class="level-info" id="levelInfo"></p>
+
+        <div class="row">
+          <label for="color">You play</label>
+          <select id="color">
+            <option value="w">White</option>
+            <option value="b">Black</option>
+          </select>
+        </div>
+        <div class="row">
+          <label for="time">Time per move <span id="timeVal">2.0 s</span></label>
+          <input type="range" id="time" min="0.5" max="10" step="0.5" value="2">
+        </div>
+        <p class="hint">Time applies to levels 3 and 4. Levels 1 and 2 search to a fixed depth.</p>
+
+        <div class="buttons">
+          <button id="newGame" class="primary">New game</button>
+          <button id="undo">Undo</button>
+          <button id="flip">Flip</button>
+        </div>
+      </div>
+
+      <div class="card">
+        <div class="status" id="status">Your move</div>
+        <h2>Last AI search</h2>
+        <dl class="stats" id="stats">
+          <dt>Move</dt><dd id="sMove">–</dd>
+          <dt>Score</dt><dd id="sScore">–</dd>
+          <dt>Depth</dt><dd id="sDepth">–</dd>
+          <dt>Positions</dt><dd id="sNodes">–</dd>
+          <dt>Time</dt><dd id="sTime">–</dd>
+          <dt>Speed</dt><dd id="sNps">–</dd>
+        </dl>
+        <p class="pv" id="sPv"></p>
+      </div>
+
+      <div class="card">
+        <h2>Moves</h2>
+        <ol class="moves" id="moves"></ol>
+      </div>
+    </aside>
+  </main>
+
+  <script src="/static/app.js"></script>
+</body>
+</html>
