@@ -1,4 +1,0 @@
-player,opponent,wins,draws,losses,score,elo_diff,elo_low,elo_high
-L4+full,L4+material,8,0,0,1.0,,,
-L4+full,L4+pst,3,2,3,0.5,0,-241,241
-L4+material,L4+pst,0,2,6,0.125,-338,-1200,-168
