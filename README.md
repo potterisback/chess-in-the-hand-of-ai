@@ -2,7 +2,7 @@
 
 A chess app where you will play against the computer at **four AI levels** (Easy, Medium, Hard, Master).
 
-*Introduction to AI (IT3160E) · HUST · Group [__]*
+*Introduction to AI (IT3160E) · HUST · Group 8
 
 ![Web interface](docs/screenshot.png)
 
